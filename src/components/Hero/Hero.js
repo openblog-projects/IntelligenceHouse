@@ -12,7 +12,7 @@ const Hero = (props) => (
     <div style={{fontSize: "55" , lineHeight: "1.2"}}><div><p>Intelligence</p></div>
    <Typewriter
   options={{
-    strings: ['House', 'Hacker'],
+    strings: ['House', 'Hacker', 'Explorer'],
     autoStart: true,
     loop: true,
   }}
